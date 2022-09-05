@@ -10,7 +10,7 @@ public class text
             {
                 Thread.Sleep(100);
                 //Console.WriteLine("run:"+i);
-                Console.WriteLine("name:"+s+ "线程id："+Thread.CurrentThread.ManagedThreadId.ToString()+"线程池："+ThreadPool.ThreadCount);
+                Console.WriteLine("name:"+s+ "线程id："+Thread.CurrentThread.ManagedThreadId.ToString()+"线程池："+ThreadPool.ThreadCount+" "+i);
             }
         });
     }
