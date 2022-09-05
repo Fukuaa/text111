@@ -1,0 +1,15 @@
+C:\Users\唐曼\RiderProjects\Solution1\text\bin\Debug\net6.0\text.exe
+C:\Users\唐曼\RiderProjects\Solution1\text\bin\Debug\net6.0\text.deps.json
+C:\Users\唐曼\RiderProjects\Solution1\text\bin\Debug\net6.0\text.runtimeconfig.json
+C:\Users\唐曼\RiderProjects\Solution1\text\bin\Debug\net6.0\text.dll
+C:\Users\唐曼\RiderProjects\Solution1\text\bin\Debug\net6.0\text.pdb
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.csproj.AssemblyReference.cache
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.AssemblyInfoInputs.cache
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.AssemblyInfo.cs
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.csproj.CoreCompileInputs.cache
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.dll
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\refint\text.dll
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.pdb
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\text.genruntimeconfig.cache
+C:\Users\唐曼\RiderProjects\Solution1\text\obj\Debug\net6.0\ref\text.dll
