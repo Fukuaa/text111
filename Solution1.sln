@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "text", "text\text.csproj", "{45933D87-AC5D-499D-B933-7F6BCE3FF282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{0C520B67-481C-4336-8CBC-1B69DA85FF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{2DA1CD0A-CAF9-49A6-85DA-F47623391757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{45933D87-AC5D-499D-B933-7F6BCE3FF282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45933D87-AC5D-499D-B933-7F6BCE3FF282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45933D87-AC5D-499D-B933-7F6BCE3FF282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C520B67-481C-4336-8CBC-1B69DA85FF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C520B67-481C-4336-8CBC-1B69DA85FF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C520B67-481C-4336-8CBC-1B69DA85FF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C520B67-481C-4336-8CBC-1B69DA85FF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA1CD0A-CAF9-49A6-85DA-F47623391757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA1CD0A-CAF9-49A6-85DA-F47623391757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA1CD0A-CAF9-49A6-85DA-F47623391757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA1CD0A-CAF9-49A6-85DA-F47623391757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
